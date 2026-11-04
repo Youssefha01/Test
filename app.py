@@ -1,3 +1,3 @@
 print("Hello")
 print("HI")
-print("Welc")
+print("HI")
